@@ -2,6 +2,7 @@
 {
     private static void Main(string[] args)
     {
+        //código feito por mim:
         /*
 
         int posicao;
@@ -48,7 +49,8 @@
         */
 
 
-        
+        //código feito em aula:
+
         double ant = 1, prox = 0;
         int posicao;
 
